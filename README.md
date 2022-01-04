@@ -1,4 +1,3 @@
-# deep-learning
 <head>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     <script type="text/x-mathjax-config">
@@ -10,4 +9,6 @@
         });
     </script>
 </head>
-$ e = m c^2 $
+# deep-learning
+
+$e = mc^2$
